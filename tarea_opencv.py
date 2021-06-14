@@ -6,11 +6,7 @@ import sys
 #cv2.imshow("Faces found", image)
 #cv2.waitKey(0)
 
-#import sys
-
 # Get user supplied values
-#imagePath = sys.argv[1]
-#cascPath = sys.argv[2]
 imagePath = "grupo.png"
 cascPath = "haarcascade_frontalface_default.xml"
 
